@@ -22,4 +22,5 @@ The dataset used for training and evaluation can be found on Kaggle: [English-Hi
 
 ```bash
 git clone https://github.com/shikhar5647/Neural_machine_translation.git
-cd english-hindi-nmt
+cd Neural_machine_translation
+
